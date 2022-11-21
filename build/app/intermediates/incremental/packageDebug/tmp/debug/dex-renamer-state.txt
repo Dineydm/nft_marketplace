@@ -1,0 +1,4 @@
+#Fri Nov 18 11:17:57 BRT 2022
+base.0=/Users/diney/Projetos/nft_marketplace/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
